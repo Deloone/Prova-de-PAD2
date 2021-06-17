@@ -30,3 +30,5 @@ function calculator(num1, num2) {
 //4º 
 
 // vai ser: 4, 1, 5, 1
+
+// O 5º eu n consegui fazer ;-;
